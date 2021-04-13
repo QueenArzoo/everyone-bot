@@ -1,8 +1,8 @@
 {
     "telegramApiKey": "<<1749767753:AAEm4-Ccscur-YXlacf4TuOXY4Wu9cL-Zl0>>",
     "botUsername": "<<LaylaMentionBot>>",
-    "firebaseProjectName": "myapp-a15sd4",
-    "firebaseDatabaseSecret": "<< FIREBASE DATABASE SECRET >>",
+    "firebaseProjectName": "mentionbot-f6318",
+    "firebaseDatabaseSecret": "<< FIREBASE DATABASmentionbot-f6318E SECRET >>",
     "mentionsPerMessage": 5,
     "enableRemoveInactiveMembersCommand": false
 }
